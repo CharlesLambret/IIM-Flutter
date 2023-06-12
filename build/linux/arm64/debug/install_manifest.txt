@@ -1,0 +1,12 @@
+/home/charles/cours flutter/example/build/linux/arm64/debug/bundle/example
+/home/charles/cours flutter/example/build/linux/arm64/debug/bundle/data/icudtl.dat
+/home/charles/cours flutter/example/build/linux/arm64/debug/bundle/lib/libflutter_linux_gtk.so
+/home/charles/cours flutter/example/build/linux/arm64/debug/bundle/data/flutter_assets/kernel_blob.bin
+/home/charles/cours flutter/example/build/linux/arm64/debug/bundle/data/flutter_assets/packages/cupertino_icons/assets/CupertinoIcons.ttf
+/home/charles/cours flutter/example/build/linux/arm64/debug/bundle/data/flutter_assets/fonts/MaterialIcons-Regular.otf
+/home/charles/cours flutter/example/build/linux/arm64/debug/bundle/data/flutter_assets/shaders/ink_sparkle.frag
+/home/charles/cours flutter/example/build/linux/arm64/debug/bundle/data/flutter_assets/AssetManifest.json
+/home/charles/cours flutter/example/build/linux/arm64/debug/bundle/data/flutter_assets/AssetManifest.smcbin
+/home/charles/cours flutter/example/build/linux/arm64/debug/bundle/data/flutter_assets/FontManifest.json
+/home/charles/cours flutter/example/build/linux/arm64/debug/bundle/data/flutter_assets/NOTICES.Z
+/home/charles/cours flutter/example/build/linux/arm64/debug/bundle/data/flutter_assets/version.json
