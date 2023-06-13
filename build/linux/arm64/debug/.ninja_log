@@ -1,54 +1,54 @@
 # ninja log v5
-274	33998	0	/home/charles/cours flutter/example/linux/flutter/ephemeral/flutter_linux/fl_basic_message_channel.h	e5a8a24b90ab861
-274	33998	0	/home/charles/cours flutter/example/linux/flutter/ephemeral/flutter_linux/fl_method_response.h	e5a8a24b90ab861
-274	33998	0	/home/charles/cours flutter/example/linux/flutter/ephemeral/flutter_linux/fl_view.h	e5a8a24b90ab861
-274	33998	0	/home/charles/cours flutter/example/linux/flutter/ephemeral/flutter_linux/fl_binary_messenger.h	e5a8a24b90ab861
-274	33998	0	/home/charles/cours flutter/example/linux/flutter/ephemeral/flutter_linux/fl_json_message_codec.h	e5a8a24b90ab861
-274	33998	0	/home/charles/cours flutter/example/linux/flutter/ephemeral/flutter_linux/flutter_linux.h	e5a8a24b90ab861
-274	33998	0	/home/charles/cours flutter/example/linux/flutter/ephemeral/flutter_linux/fl_dart_project.h	e5a8a24b90ab861
-274	33998	0	/home/charles/cours flutter/example/linux/flutter/ephemeral/flutter_linux/fl_method_call.h	e5a8a24b90ab861
-274	33998	0	/home/charles/cours flutter/example/linux/flutter/ephemeral/flutter_linux/fl_engine.h	e5a8a24b90ab861
-274	33998	0	/home/charles/cours flutter/example/linux/flutter/ephemeral/flutter_linux/fl_message_codec.h	e5a8a24b90ab861
-274	33998	0	/home/charles/cours flutter/example/linux/flutter/ephemeral/flutter_linux/fl_method_codec.h	e5a8a24b90ab861
-274	33998	0	/home/charles/cours flutter/example/linux/flutter/ephemeral/flutter_linux/fl_binary_codec.h	e5a8a24b90ab861
-274	33998	0	/home/charles/cours flutter/example/linux/flutter/ephemeral/flutter_linux/fl_method_channel.h	e5a8a24b90ab861
-41940	42163	0	CMakeFiles/install.util	c01cba0c7d66289b
-274	33998	0	/home/charles/cours flutter/example/linux/flutter/ephemeral/flutter_linux/fl_standard_message_codec.h	e5a8a24b90ab861
-274	33998	0	/home/charles/cours flutter/example/linux/flutter/ephemeral/flutter_linux/fl_json_method_codec.h	e5a8a24b90ab861
-274	33998	0	/home/charles/cours flutter/example/linux/flutter/ephemeral/libflutter_linux_gtk.so	e5a8a24b90ab861
-274	33998	0	/home/charles/cours flutter/example/linux/flutter/ephemeral/flutter_linux/fl_standard_method_codec.h	e5a8a24b90ab861
-274	33998	0	/home/charles/cours flutter/example/linux/flutter/ephemeral/flutter_linux/fl_plugin_registrar.h	e5a8a24b90ab861
+153	30851	0	/home/charles/cours flutter/example/linux/flutter/ephemeral/flutter_linux/fl_method_channel.h	e5a8a24b90ab861
+153	30851	0	/home/charles/cours flutter/example/linux/flutter/ephemeral/flutter_linux/fl_binary_codec.h	e5a8a24b90ab861
+153	30851	0	/home/charles/cours flutter/example/linux/flutter/ephemeral/flutter_linux/fl_method_codec.h	e5a8a24b90ab861
+153	30851	0	/home/charles/cours flutter/example/linux/flutter/ephemeral/flutter_linux/fl_message_codec.h	e5a8a24b90ab861
+153	30851	0	/home/charles/cours flutter/example/linux/flutter/ephemeral/flutter_linux/fl_engine.h	e5a8a24b90ab861
+153	30851	0	/home/charles/cours flutter/example/linux/flutter/ephemeral/flutter_linux/fl_method_call.h	e5a8a24b90ab861
+153	30851	0	/home/charles/cours flutter/example/linux/flutter/ephemeral/flutter_linux/fl_dart_project.h	e5a8a24b90ab861
+153	30851	0	/home/charles/cours flutter/example/linux/flutter/ephemeral/flutter_linux/flutter_linux.h	e5a8a24b90ab861
+153	30851	0	/home/charles/cours flutter/example/linux/flutter/ephemeral/flutter_linux/fl_json_message_codec.h	e5a8a24b90ab861
+153	30851	0	/home/charles/cours flutter/example/linux/flutter/ephemeral/flutter_linux/fl_binary_messenger.h	e5a8a24b90ab861
+153	30851	0	/home/charles/cours flutter/example/linux/flutter/ephemeral/flutter_linux/fl_view.h	e5a8a24b90ab861
+153	30851	0	/home/charles/cours flutter/example/linux/flutter/ephemeral/flutter_linux/fl_method_response.h	e5a8a24b90ab861
+153	30851	0	/home/charles/cours flutter/example/linux/flutter/ephemeral/flutter_linux/fl_basic_message_channel.h	e5a8a24b90ab861
+38451	38660	0	CMakeFiles/install.util	c01cba0c7d66289b
+36896	38451	1686659019531499872	intermediates_do_not_run/example	3a30f198cfd58d11
+153	30851	0	flutter/_phony_	e5a8a24b90ab861
+153	30851	0	/home/charles/cours flutter/example/linux/flutter/ephemeral/flutter_linux/fl_string_codec.h	e5a8a24b90ab861
+30865	36895	1686659017963284372	CMakeFiles/example.dir/my_application.cc.o	e84809e35a70903d
+30870	36377	1686659017394568872	CMakeFiles/example.dir/flutter/generated_plugin_registrant.cc.o	f8c3c879590380a9
+153	30851	0	/home/charles/cours flutter/example/linux/flutter/ephemeral/flutter_linux/fl_value.h	e5a8a24b90ab861
+153	30851	0	/home/charles/cours flutter/example/linux/flutter/ephemeral/flutter_linux/fl_plugin_registry.h	e5a8a24b90ab861
 160446	165165	1686563789921537529	CMakeFiles/example.dir/main.cc.o	61e812d365959798
-274	33998	0	/home/charles/cours flutter/example/linux/flutter/ephemeral/flutter_linux/fl_plugin_registry.h	e5a8a24b90ab861
-274	33998	0	/home/charles/cours flutter/example/linux/flutter/ephemeral/flutter_linux/fl_value.h	e5a8a24b90ab861
-34004	40060	1686652344599054589	CMakeFiles/example.dir/flutter/generated_plugin_registrant.cc.o	f8c3c879590380a9
-34003	40666	1686652345263054589	CMakeFiles/example.dir/my_application.cc.o	e84809e35a70903d
-274	33998	0	/home/charles/cours flutter/example/linux/flutter/ephemeral/flutter_linux/fl_string_codec.h	e5a8a24b90ab861
-274	33998	0	flutter/_phony_	e5a8a24b90ab861
-40669	41939	1686652346552054589	intermediates_do_not_run/example	3a30f198cfd58d11
-120	36110	0	/home/charles/cours flutter/example/linux/flutter/ephemeral/libflutter_linux_gtk.so	e5a8a24b90ab861
-120	36110	0	/home/charles/cours flutter/example/linux/flutter/ephemeral/flutter_linux/fl_basic_message_channel.h	e5a8a24b90ab861
-120	36110	0	/home/charles/cours flutter/example/linux/flutter/ephemeral/flutter_linux/fl_binary_codec.h	e5a8a24b90ab861
-120	36110	0	/home/charles/cours flutter/example/linux/flutter/ephemeral/flutter_linux/fl_binary_messenger.h	e5a8a24b90ab861
-120	36110	0	/home/charles/cours flutter/example/linux/flutter/ephemeral/flutter_linux/fl_dart_project.h	e5a8a24b90ab861
-120	36110	0	/home/charles/cours flutter/example/linux/flutter/ephemeral/flutter_linux/fl_engine.h	e5a8a24b90ab861
-120	36110	0	/home/charles/cours flutter/example/linux/flutter/ephemeral/flutter_linux/fl_json_message_codec.h	e5a8a24b90ab861
-120	36110	0	/home/charles/cours flutter/example/linux/flutter/ephemeral/flutter_linux/fl_json_method_codec.h	e5a8a24b90ab861
-120	36110	0	/home/charles/cours flutter/example/linux/flutter/ephemeral/flutter_linux/fl_message_codec.h	e5a8a24b90ab861
-120	36110	0	/home/charles/cours flutter/example/linux/flutter/ephemeral/flutter_linux/fl_method_call.h	e5a8a24b90ab861
-120	36110	0	/home/charles/cours flutter/example/linux/flutter/ephemeral/flutter_linux/fl_method_channel.h	e5a8a24b90ab861
-120	36110	0	/home/charles/cours flutter/example/linux/flutter/ephemeral/flutter_linux/fl_method_codec.h	e5a8a24b90ab861
-120	36110	0	/home/charles/cours flutter/example/linux/flutter/ephemeral/flutter_linux/fl_method_response.h	e5a8a24b90ab861
-120	36110	0	/home/charles/cours flutter/example/linux/flutter/ephemeral/flutter_linux/fl_plugin_registrar.h	e5a8a24b90ab861
-120	36110	0	/home/charles/cours flutter/example/linux/flutter/ephemeral/flutter_linux/fl_plugin_registry.h	e5a8a24b90ab861
-120	36110	0	/home/charles/cours flutter/example/linux/flutter/ephemeral/flutter_linux/fl_standard_message_codec.h	e5a8a24b90ab861
-120	36110	0	/home/charles/cours flutter/example/linux/flutter/ephemeral/flutter_linux/fl_standard_method_codec.h	e5a8a24b90ab861
-120	36110	0	/home/charles/cours flutter/example/linux/flutter/ephemeral/flutter_linux/fl_string_codec.h	e5a8a24b90ab861
-120	36110	0	/home/charles/cours flutter/example/linux/flutter/ephemeral/flutter_linux/fl_value.h	e5a8a24b90ab861
-120	36110	0	/home/charles/cours flutter/example/linux/flutter/ephemeral/flutter_linux/fl_view.h	e5a8a24b90ab861
-120	36110	0	/home/charles/cours flutter/example/linux/flutter/ephemeral/flutter_linux/flutter_linux.h	e5a8a24b90ab861
-120	36110	0	flutter/_phony_	e5a8a24b90ab861
-36136	44444	1686656655906903231	CMakeFiles/example.dir/flutter/generated_plugin_registrant.cc.o	f8c3c879590380a9
-36134	45287	1686656656883414731	CMakeFiles/example.dir/my_application.cc.o	e84809e35a70903d
-45288	46617	1686656658228741731	intermediates_do_not_run/example	3a30f198cfd58d11
-46617	46833	0	CMakeFiles/install.util	c01cba0c7d66289b
+153	30851	0	/home/charles/cours flutter/example/linux/flutter/ephemeral/flutter_linux/fl_plugin_registrar.h	e5a8a24b90ab861
+153	30851	0	/home/charles/cours flutter/example/linux/flutter/ephemeral/flutter_linux/fl_standard_method_codec.h	e5a8a24b90ab861
+153	30851	0	/home/charles/cours flutter/example/linux/flutter/ephemeral/libflutter_linux_gtk.so	e5a8a24b90ab861
+153	30851	0	/home/charles/cours flutter/example/linux/flutter/ephemeral/flutter_linux/fl_json_method_codec.h	e5a8a24b90ab861
+153	30851	0	/home/charles/cours flutter/example/linux/flutter/ephemeral/flutter_linux/fl_standard_message_codec.h	e5a8a24b90ab861
+170	35522	0	/home/charles/cours flutter/example/linux/flutter/ephemeral/libflutter_linux_gtk.so	e5a8a24b90ab861
+170	35522	0	/home/charles/cours flutter/example/linux/flutter/ephemeral/flutter_linux/fl_basic_message_channel.h	e5a8a24b90ab861
+170	35522	0	/home/charles/cours flutter/example/linux/flutter/ephemeral/flutter_linux/fl_binary_codec.h	e5a8a24b90ab861
+170	35522	0	/home/charles/cours flutter/example/linux/flutter/ephemeral/flutter_linux/fl_binary_messenger.h	e5a8a24b90ab861
+170	35522	0	/home/charles/cours flutter/example/linux/flutter/ephemeral/flutter_linux/fl_dart_project.h	e5a8a24b90ab861
+170	35522	0	/home/charles/cours flutter/example/linux/flutter/ephemeral/flutter_linux/fl_engine.h	e5a8a24b90ab861
+170	35522	0	/home/charles/cours flutter/example/linux/flutter/ephemeral/flutter_linux/fl_json_message_codec.h	e5a8a24b90ab861
+170	35522	0	/home/charles/cours flutter/example/linux/flutter/ephemeral/flutter_linux/fl_json_method_codec.h	e5a8a24b90ab861
+170	35522	0	/home/charles/cours flutter/example/linux/flutter/ephemeral/flutter_linux/fl_message_codec.h	e5a8a24b90ab861
+170	35522	0	/home/charles/cours flutter/example/linux/flutter/ephemeral/flutter_linux/fl_method_call.h	e5a8a24b90ab861
+170	35522	0	/home/charles/cours flutter/example/linux/flutter/ephemeral/flutter_linux/fl_method_channel.h	e5a8a24b90ab861
+170	35522	0	/home/charles/cours flutter/example/linux/flutter/ephemeral/flutter_linux/fl_method_codec.h	e5a8a24b90ab861
+170	35522	0	/home/charles/cours flutter/example/linux/flutter/ephemeral/flutter_linux/fl_method_response.h	e5a8a24b90ab861
+170	35522	0	/home/charles/cours flutter/example/linux/flutter/ephemeral/flutter_linux/fl_plugin_registrar.h	e5a8a24b90ab861
+170	35522	0	/home/charles/cours flutter/example/linux/flutter/ephemeral/flutter_linux/fl_plugin_registry.h	e5a8a24b90ab861
+170	35522	0	/home/charles/cours flutter/example/linux/flutter/ephemeral/flutter_linux/fl_standard_message_codec.h	e5a8a24b90ab861
+170	35522	0	/home/charles/cours flutter/example/linux/flutter/ephemeral/flutter_linux/fl_standard_method_codec.h	e5a8a24b90ab861
+170	35522	0	/home/charles/cours flutter/example/linux/flutter/ephemeral/flutter_linux/fl_string_codec.h	e5a8a24b90ab861
+170	35522	0	/home/charles/cours flutter/example/linux/flutter/ephemeral/flutter_linux/fl_value.h	e5a8a24b90ab861
+170	35522	0	/home/charles/cours flutter/example/linux/flutter/ephemeral/flutter_linux/fl_view.h	e5a8a24b90ab861
+170	35522	0	/home/charles/cours flutter/example/linux/flutter/ephemeral/flutter_linux/flutter_linux.h	e5a8a24b90ab861
+170	35522	0	flutter/_phony_	e5a8a24b90ab861
+35573	41908	1686659938024023927	CMakeFiles/example.dir/flutter/generated_plugin_registrant.cc.o	f8c3c879590380a9
+35569	42646	1686659938851609927	CMakeFiles/example.dir/my_application.cc.o	e84809e35a70903d
+42646	44278	1686659940503783427	intermediates_do_not_run/example	3a30f198cfd58d11
+44278	44438	0	CMakeFiles/install.util	c01cba0c7d66289b
